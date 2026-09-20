@@ -1,0 +1,6 @@
+{
+  "name": "Simulador de Transmisión Mecánica",
+  "description": "Prototipo interactivo de alta fidelidad para simulación de transmisión mecánica y validación de requisitos funcionales RF-01 a RF-07.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
